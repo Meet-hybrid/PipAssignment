@@ -1,0 +1,125 @@
+{
+    "builtinAds": [],
+    "preloads": [
+        {
+            "name": "BIN",
+            "count": 100
+        }
+    ],
+    "postions": [
+        {
+            "name": "Launcher",
+            "menuid": "",
+            "units": "",
+            "topUnits": ""
+        },
+        {
+            "name": "Banner",
+            "menuid": "",
+            "units": "",
+            "topUnits": ""
+        },
+        {
+            "name": "Search",
+            "menuid": "",
+            "units": "",
+            "topUnits": ""
+        },
+        {
+            "name": "editorRecommended",
+            "menuid": "5",
+            "units": "",
+            "topUnits": ""
+        },
+        {
+            "name": "newGame",
+            "menuid": "59",
+            "units": "",
+            "topUnits": ""
+        },
+        {
+            "name": "topGame",
+            "menuid": "13",
+            "units": "",
+            "topUnits": ""
+        },
+        {
+            "name": "popularApp",
+            "menuid": "1",
+            "units": "",
+            "topUnits": ""
+        },
+        {
+            "name": "recentlyUpdated",
+            "menuid": "50",
+            "units": "",
+            "topUnits": ""
+        },
+        {
+            "name": "Detail",
+            "menuid": "",
+            "units": "",
+            "topUnits": ""
+        },
+        {
+            "name": "BannerTwo",
+            "menuid": "88",
+            "units": "",
+            "topUnits": ""
+        },
+        {
+            "name": "searchbanner",
+            "menuid": "99",
+            "units": "",
+            "topUnits": ""
+        },
+        {
+            "name": "Big_Banner",
+            "menuid": "",
+            "units": "",
+            "topUnits": ""
+        },
+        {
+            "name": "ldcloud",
+            "menuid": "",
+            "units": "",
+            "topUnits": ""
+        },
+        {
+            "name": "chatgpt",
+            "menuid": "",
+            "units": "",
+            "topUnits": ""
+        },
+        {
+            "name": "wujie",
+            "menuid": "",
+            "units": "",
+            "topUnits": ""
+        },
+        {
+            "name": "googleplay",
+            "menuid": "",
+            "units": "",
+            "topUnits": ""
+        }
+    ],
+    "placements": [
+        {
+            "name": "LauncherBottom",
+            "units": "BIN,BIN,BIN,BIN,BIN,BIN,BIN"
+        },
+        {
+            "name": "AppStoreSearch",
+            "units": "BIN,BIN,BIN,BIN,BIN,BIN"
+        },
+        {
+            "name": "AppStoreMain",
+            "units": "BIN,BIN,BIN,BIN,BIN,BIN"
+        },
+        {
+            "name": "AppStoreDetail",
+            "units": "BIN"
+        }
+    ]
+}
