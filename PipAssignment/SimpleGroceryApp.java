@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class SimpleGroceryApp {
@@ -39,7 +39,7 @@ public class SimpleGroceryApp {
                     } else {
                         System.out.println("Your Grocery List:");
                         for (int num = 0; num < groceryList.size(); num++) {
-                            System.out.println((num + 1) + ". " + groceryList.get(i));
+                            System.out.println((num + 1) + ". " + groceryList.get(num));
                         }
                         System.out.print("Enter the number of the item to remove: ");
                         int index = input.nextInt();
@@ -59,7 +59,7 @@ public class SimpleGroceryApp {
                     } else {
                         System.out.println("Your Grocery List:");
                         for (int num = 0; num < groceryList.size(); num++) {
-                            System.out.println((num + 1) + ". " + groceryList.get(i));
+                            System.out.println((num + 1) + ". " + groceryList.get(num));
                         }
                     }
                     break;
